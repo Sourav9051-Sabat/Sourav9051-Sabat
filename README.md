@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Welcome to visit my profile:
 <br><br> 👋 Hello, my name is Satabdi Sourav Sabat.<br> 🎓 I am currently pursuing my B.Tech in Computer Science and Engineering (CSE - AI).<br>💻 I am passionate about software development and continuously improving my skills in Java, DSA, SQL, and Web Development.<br>🚀 I enjoy solving coding problems and building real-world projects to enhance my practical knowledge.<br> 🌱 I am a quick learner, a team player, and always eager to learn new technologies.<br> 🎯 I am looking for an opportunity where I can contribute, learn, and grow as a Software Engineer.<br><br><br>
 
 
