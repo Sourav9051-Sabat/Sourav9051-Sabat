@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile;B.Tech+CSE-AI+Student;Java+%7C+DSA+%7C+MERN+Stack" />
 </h1>
 
-## 🌐 Coding Profiles :
+##  Coding Profiles :
 
 <p align="left">
 <a href="https://leetcode.com/u/bapu----0999/">
