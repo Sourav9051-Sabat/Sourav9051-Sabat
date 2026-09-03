@@ -39,47 +39,7 @@
 * Add, edit, and delete tasks
 * Uses Local Storage to save tasks permanently
 
-# 🚀 SPACE MISSION — GITHUB CONTRIBUTIONS
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourav9051-Sabat&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  🚀 ─────────── 🪐 ─────────── 🌎 ─────────── 🌙 ─────────── ⭐
-</p>
-
-<h3 align="center">
-  🌌 MY CODING JOURNEY 🌌
-</h3>
-
-<p align="center">
-  🚀 LEARN &nbsp; → &nbsp; 💻 CODE &nbsp; → &nbsp; 🧠 SOLVE &nbsp; → &nbsp; 🛠️ BUILD &nbsp; → &nbsp; 🌟 DEPLOY
-</p>
-
-<p align="center">
-  <b>MISSION STATUS: 🟢 ACTIVE</b>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sourav9051-Sabat&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sourav9051-Sabat&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav9051-Sabat&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-</p>
-
----
-
-<p align="center">
-  🌌 <b>KEEP CODING • KEEP EXPLORING • REACH THE NEXT PLANET 🚀</b> 🌌
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sourav9051-Sabat&icon=0&color=4" />
-</p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Sourav9051-Sabat&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Sourav9051-Sabat&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sourav9051-Sabat&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
