@@ -8,9 +8,6 @@
 
 <br/>
 
-<a href="https://github.com/Sourav9051-Sabat">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 <a href="https://www.linkedin.com/in/satabdi-sourav-sabat-791705311/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
