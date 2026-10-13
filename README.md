@@ -1,47 +1,220 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile;B.Tech+CSE-AI+Student;Java+%7C+DSA+%7C+MERN+Stack" />
-</h1>
 
-## Coding Profiles :
+<!-- ===================== HERO SECTION ===================== -->
 
-<p align="left">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Satabdi%20Sourav%20Sabat&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Build%20%7C%20Solve%20%7C%20Grow&descSize=16&descAlignY=58" width="100%" alt="Profile Banner"/>
+
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Java+%26+DSA+Enthusiast;Building+Real-World+Web+Applications;CSE-AI+Student+%7C+Class+of+2027" alt="Typing Introduction"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Sourav9051-Sabat">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/satabdi-sourav-sabat-791705311/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Sourav9051-Sabat&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const developer = {
+    name: "Satabdi Sourav Sabat",
+    education: "B.Tech CSE (AI) - 2027",
+    focus: ["MERN Stack", "Backend Development"],
+    languages: ["JavaScript", "Java"],
+    databases: ["MongoDB", "MySQL"],
+    interests: ["DSA", "REST APIs", "Problem Solving"],
+    goal: "Become a skilled Software Engineer",
+    motto: "Learn consistently. Build meaningfully."
+};
+```
+
+- 🎓 Computer Science Engineering (AI) student.
+- 💻 Interested in full-stack and backend development.
+- 🚀 Building practical web applications and REST APIs.
+- 🌱 Improving my Java, DSA and software engineering skills.
+- 🎯 Focused on continuous learning and real-world problem solving.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Languages"/>
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,bootstrap" alt="Frontend"/>
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and Databases"/>
+
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🩺 Personalized Health & Wellness</h3>
+
+A health and wellness platform focused on personalized health profiles and wellness goals.
+
+**Tech:** MERN Stack
+
+**Key areas:**
+- User authentication
+- REST API development
+- MongoDB integration
+
+<a href="https://github.com/Sourav9051-Sabat/Personalized-Health-Wellness">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎮 Simon Says Game</h3>
+
+An interactive memory game that challenges users to repeat a growing sequence.
+
+**Tech:** HTML, CSS, JavaScript
+
+**Key areas:**
+- Game logic
+- DOM manipulation
+- Event handling
+
+<a href="https://github.com/Sourav9051-Sabat/Simon-Say-Game">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎨 Random Color Generator</h3>
+
+A web application that generates random colors dynamically.
+
+**Tech:** HTML, CSS, JavaScript
+
+**Key areas:**
+- Random color generation
+- Dynamic styling
+- Interactive UI
+
+<a href="https://github.com/Sourav9051-Sabat/Random-Color-Generator">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📝 To-Do App</h3>
+
+A task management application for organizing daily activities.
+
+**Tech:** HTML, CSS, JavaScript
+
+**Key areas:**
+- Task management
+- CRUD operations
+- Browser storage
+
+<a href="https://github.com/Sourav9051-Sabat/To-Do-App">View Repository →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sourav9051-Sabat&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav9051-Sabat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=Sourav9051-Sabat&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sourav9051-Sabat&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Sourav9051-Sabat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Profile Trophies"/>
+
+</div>
+
+---
+
+## 🧠 Coding Profiles
+
+<div align="center">
+
 <a href="https://leetcode.com/u/bapu----0999/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <a href="https://www.codechef.com/users/satabdi99">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/satabdisabat903">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
-</p>
 
-# 💻 Tech Stack:
+</div>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic\&logo=openjdk\&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic\&logo=css3\&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic\&logo=typescript\&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic\&logo=amazon-aws\&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic\&logo=express\&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic\&logo=fastapi) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic\&logo=ejs\&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic\&logo=node.js\&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic\&logo=next.js\&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic\&logo=npm\&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic\&logo=react\&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic\&logo=react\&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic\&logo=react%20query\&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic\&logo=react-router\&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic\&logo=reacthookform\&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic\&logo=redux\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic\&logo=mongodb\&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic\&logo=mysql\&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic\&logo=git\&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic\&logo=gitlab\&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic\&logo=github\&logoColor=white)
+---
 
-## 🔥 Projects :
+## 🤝 Let's Connect
 
-### 🎮 Simon Says Game
+<div align="center">
 
-* Built using HTML, CSS, and JavaScript
-* Interactive memory game that tests users' memory skills
+I'm always interested in learning, building useful applications and connecting with developers and recruiters.
 
-### 🎨 Random Color Generator
+<a href="https://www.linkedin.com/in/satabdi-sourav-sabat-791705311/">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
 
-* Generates random RGB colors with a single click
-* Built using HTML, CSS, and JavaScript
+<br/><br/>
 
-### 📝 To-Do App
+**"Every commit is a small step toward becoming a better engineer."**
 
-* Add, edit, and delete tasks
-* Uses Local Storage to save tasks permanently
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%" alt="Footer Banner"/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sourav9051-Sabat&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sourav9051-Sabat&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sourav9051-Sabat&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-give some unique type of things which is most of the iit,nit students follows in their github profiles
+</div>
