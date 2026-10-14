@@ -8,20 +8,31 @@
 
 <br/>
 
+📍 **Balasore, Odisha**
+
+<br/>
+
+<a href="https://github.com/Sourav9051-Sabat">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 <a href="https://www.linkedin.com/in/satabdi-sourav-sabat-791705311/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Sourav9051-Sabat&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sourav9051-Sabat&label=PROFILE%20VIEWS&color=0891B2&style=flat" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
 ```javascript
 const developer = {
     name: "Satabdi Sourav Sabat",
+    location: "Balasore, Odisha",
     education: "B.Tech CSE (AI) - 2027",
     focus: ["MERN Stack", "Backend Development"],
     languages: ["JavaScript", "Java"],
@@ -31,10 +42,10 @@ const developer = {
 };
 ```
 
-- 🎓 Computer Science Engineering (AI) student.
+- 🎓 B.Tech Computer Science Engineering (AI) student.
 - 💻 Interested in full-stack and backend development.
 - 🚀 Building practical web applications and REST APIs.
-- 🌱 Improving my Java, DSA and software engineering skills.
+- 🌱 Improving my Java, DSA, and software engineering skills.
 - 🎯 Focused on continuous learning and real-world problem solving.
 
 ---
@@ -43,19 +54,19 @@ const developer = {
 
 <div align="center">
 
-**Languages**
+### Languages
 
 <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Languages"/>
 
-**Frontend Development**
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap" alt="Frontend Development"/>
 
-**Backend & Databases**
+### Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and Databases"/>
 
-**Tools & Workflow**
+### Tools & Workflow
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer Tools"/>
 
@@ -139,17 +150,35 @@ A task management application for organizing daily activities.
 <div align="center">
 
 <a href="https://github.com/Sourav9051-Sabat">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sourav9051-Sabat&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sourav9051-Sabat&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 </a>
 <a href="https://github.com/Sourav9051-Sabat">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav9051-Sabat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav9051-Sabat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Sourav9051-Sabat">
 <img width="75%" src="https://streak-stats.demolab.com/?user=Sourav9051-Sabat&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</a>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourav9051-Sabat&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sourav9051-Sabat&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -179,7 +208,7 @@ A task management application for organizing daily activities.
 
 <div align="center">
 
-I'm interested in building useful applications and connecting with developers, recruiters and engineering teams.
+I'm interested in building useful applications and connecting with developers, recruiters, and engineering teams.
 
 <a href="https://www.linkedin.com/in/satabdi-sourav-sabat-791705311/">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
@@ -192,3 +221,4 @@ I'm interested in building useful applications and connecting with developers, r
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=90&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
+
