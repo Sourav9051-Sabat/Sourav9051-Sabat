@@ -18,8 +18,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sourav9051-Sabat&label=PROFILE%20VIEWS&color=0891B2&style=flat" alt="Profile Views"/>
-
 </div>
 
 ---
@@ -161,14 +159,6 @@ A task management application for organizing daily activities.
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourav9051-Sabat&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
-
-</div>
 
 ---
 
