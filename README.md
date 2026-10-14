@@ -37,7 +37,6 @@ const developer = {
 };
 ```
 
-- 📍 Based in **Balasore, Odisha, India**
 - 🎓 B.Tech Computer Science Engineering (AI) student, Class of 2027
 - 💻 Interested in full-stack and backend development
 - 🚀 Building practical web applications and REST APIs
