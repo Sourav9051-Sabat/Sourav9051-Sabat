@@ -1,13 +1,14 @@
-<!-- ===================== HEADER ===================== -->
+# 👋 Hi, I'm Satabdi Sourav Sabat
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Satabdi%20Sourav%20Sabat&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Build%20%7C%20Solve%20%7C%20Grow&descSize=16&descAlignY=60" width="100%" alt="Profile Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Java+%26+DSA+Enthusiast;Building+Real-World+Web+Applications;CSE-AI+Student+%7C+Class+of+2027" alt="Typing Introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Java+%26+DSA+Enthusiast;Backend+Development+Learner;Building+Real-World+Web+Applications;CSE-AI+Student+%7C+Class+of+2027" alt="Typing Introduction"/>
 
 <br/>
 
-### 📍 Balasore, Odisha, India
+📍 **Balasore, Odisha, India**
 
 <a href="https://github.com/Sourav9051-Sabat">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -16,19 +17,18 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<br/><br/>
-
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
 ```javascript
 const developer = {
     name: "Satabdi Sourav Sabat",
     location: "Balasore, Odisha, India",
     education: "B.Tech CSE (AI) - 2027",
+    cgpa: "8.13",
     focus: ["MERN Stack", "Backend Development"],
     languages: ["JavaScript", "Java"],
     databases: ["MongoDB", "MySQL"],
@@ -37,11 +37,12 @@ const developer = {
 };
 ```
 
-- 🎓 B.Tech Computer Science Engineering (AI) student, Class of 2027
-- 💻 Interested in full-stack and backend development
-- 🚀 Building practical web applications and REST APIs
-- 🌱 Improving my Java, DSA, and software engineering skills
-- 🎯 Focused on continuous learning and real-world problem solving
+- 🎓 B.Tech Computer Science Engineering (AI) student, Class of 2027.
+- 💻 Interested in Full Stack and Backend Development.
+- 🚀 Building practical web applications and REST APIs.
+- 🌱 Improving my Java, DSA and software engineering skills.
+- 🧠 Solved 500+ coding problems on CodeChef.
+- 🎯 Focused on continuous learning and real-world problem solving.
 
 ---
 
@@ -49,9 +50,9 @@ const developer = {
 
 <div align="center">
 
-### Languages
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Programming Languages"/>
 
 ### Frontend Development
 
@@ -71,72 +72,75 @@ const developer = {
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🩺 1. Personalized Health & Wellness Platform
 
-### 🩺 Personalized Health & Wellness
+**A MERN Stack application designed to help users manage their health, fitness and daily wellness activities through personalized tracking.**
 
-A health and wellness platform focused on personalized profiles and wellness goals.
+**Tech Stack:** MongoDB | Express.js | React.js | Node.js
 
-**Tech:** MongoDB, Express, React, Node.js
+**Key Features:**
+- 🔐 User Authentication and Authorization
+- 👤 Personalized Health Profiles
+- 🏋️ Workout Tracking and Management
+- 🥗 Meal and Nutrition Tracking
+- 💧 Daily Water Intake Tracking
+- 😴 Sleep Monitoring
+- 😊 Mood Tracking
+- 🎯 Personalized Wellness Goals
+- 🔔 Notification Management
+- 🔒 Protected REST APIs and Input Validation
 
-- User authentication
-- REST API development
-- MongoDB integration
+**Future Enhancements:**
+- AI-powered Wellness Assistant
+- Advanced Analytics Dashboard
+- Premium Membership and Subscription
+- Personalized Workout Recommendations
 
-[View Repository →](https://github.com/Sourav9051-Sabat/Personalized-Health-Wellness)
+🔗 **[View Repository](https://github.com/Sourav9051-Sabat/Personalized-Health-Wellness)**
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🎮 Simon Says Game
+### 🎮 2. Simon Says Game
 
 An interactive memory game that challenges users to repeat a growing sequence.
 
-**Tech:** HTML, CSS, JavaScript
+**Tech Stack:** HTML | CSS | JavaScript
 
-- Game logic
+- Game logic and sequence generation
 - DOM manipulation
 - Event handling
+- Interactive user interface
 
-[View Repository →](https://github.com/Sourav9051-Sabat/Simon-Say-Game)
+🔗 **[View Repository](https://github.com/Sourav9051-Sabat/Simon-Say-Game)**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🎨 Random Color Generator
+### 🎨 3. Random Color Generator
 
 A web application that generates and displays random colors.
 
-**Tech:** HTML, CSS, JavaScript
+**Tech Stack:** HTML | CSS | JavaScript
 
 - Random color generation
 - Dynamic styling
 - Interactive UI
 
-[View Repository →](https://github.com/Sourav9051-Sabat/Random-Color-Generator)
+🔗 **[View Repository](https://github.com/Sourav9051-Sabat/Random-Color-Generator)**
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 📝 To-Do App
+### 📝 4. To-Do App
 
 A task management application for organizing daily activities.
 
-**Tech:** HTML, CSS, JavaScript
+**Tech Stack:** HTML | CSS | JavaScript
 
 - Task management
 - CRUD operations
 - Browser storage
+- Interactive interface
 
-[View Repository →](https://github.com/Sourav9051-Sabat/To-Do-App)
-
-</td>
-</tr>
-</table>
+🔗 **[View Repository](https://github.com/Sourav9051-Sabat/To-Do-App)**
 
 ---
 
@@ -147,6 +151,7 @@ A task management application for organizing daily activities.
 <a href="https://github.com/Sourav9051-Sabat">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sourav9051-Sabat&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 </a>
+
 <a href="https://github.com/Sourav9051-Sabat">
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav9051-Sabat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </a>
@@ -159,6 +164,13 @@ A task management application for organizing daily activities.
 
 ---
 
+## 🏆 Achievements
+
+- 🥇 Participated in GIET Suravi Tech Exhibition 2025 and presented a working technical project before an expert jury panel.
+- 💻 Solved 500+ difficulty-rated programming problems on CodeChef.
+- 📜 Participated in TCS iON NQT December 2025.
+- 🚀 Continuously developing practical projects using modern web technologies.
+
 ---
 
 ## 🧠 Coding Profiles
@@ -168,9 +180,11 @@ A task management application for organizing daily activities.
 <a href="https://leetcode.com/u/bapu----0999/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
+
 <a href="https://www.codechef.com/users/satabdi99">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
 </a>
+
 <a href="https://www.hackerrank.com/profile/satabdisabat903">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
@@ -179,11 +193,23 @@ A task management application for organizing daily activities.
 
 ---
 
-## 🌱 Currently
+## 🌱 Currently Learning & Working On
 
-- 🔭 Building more MERN stack projects
-- 📚 Practicing DSA in Java
-- 🤝 Open to internships, collaborations, and open-source contributions
+- 🔭 Developing a Personalized Health & Wellness Platform using MERN.
+- ⚙️ Improving Backend Development and REST API design.
+- 📚 Practicing Data Structures and Algorithms using Java.
+- 🔐 Learning secure authentication and authorization.
+- 🤝 Open to internships, collaborations and open-source contributions.
+
+---
+
+## 🎯 Career Interests
+
+- MERN Stack Development
+- Full Stack Development
+- Backend Engineering
+- Java Development
+- Software Engineering
 
 ---
 
@@ -191,7 +217,7 @@ A task management application for organizing daily activities.
 
 <div align="center">
 
-I'm interested in building useful applications and connecting with developers, recruiters, and engineering teams.
+I'm interested in building useful applications, solving real-world problems and connecting with developers, recruiters and engineering teams.
 
 <br/>
 
