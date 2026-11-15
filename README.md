@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Satabdi Sourav Sabat
 
 <div align="center">
 
